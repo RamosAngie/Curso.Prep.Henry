@@ -122,6 +122,7 @@ if (false) {
 } else if (true) {
     console.log('Este código NO correrá');
 }
+
 ```
 La declaración `else` siempre aparecerá al final de una cadena `if-else` o `if`, y actuará de manera predeterminada. Si ninguna de las expresiones devuelve `true`, el bloque de código `else` se ejecutará sin importar qué. Si alguna de las expresiones anteriores `if` o `else if` son `true`, el bloque de código de instrucción` else` no se ejecutará.
 
@@ -210,7 +211,7 @@ En este ejemplo, vemos que inicialmente establecemos nuestra variable `i` en 0, 
 
 ### El operador ++
 
-Vimos en el último ejemplo el operador `++`. Esta es la abreviatura de Javascript para "Establecer el valor de la variable a su valor actual más uno". Hay algunas más de estas expresiones abreviadas de matemática / asignación variable, las visitaremos en las próximas lecciones.
+Vimos en el último ejemplo el operador `++`. Esta es la abreviatura de Javascript para "Establecer el valor de la variable a su valor actual más uno". Hay algunas más de estas expresiones abreviadas de matemática / asignación variable, las visitaremos en las próximas lecciones. 
 
 ### Bucles infinitos
 

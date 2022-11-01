@@ -71,7 +71,7 @@ console.log();
 
 Este método muy simple nos permitirá imprimir en la consola todo lo que pongamos entre paréntesis.
 
-## Tipos de Datos
+## Tipos de Datos 
 
 En ciencias de la computación, un tipo de dato informático o simplemente tipo, es un atributo de los datos que indica la clase de datos que se va a manejar. Esto incluye imponer restricciones en los datos, como qué valores pueden tomar y qué operaciones se pueden realizar.
 
@@ -308,7 +308,7 @@ Podemos ver que la diferencia se establece dentro de la función. La variable de
 ## Control de flujo y operadores de comparación
 
 En este ejemplo, vamos a utilizar operadores de control de flujo y comparación. El flujo de control ("control flow") es una forma de que nuestra función verifique si algo es `true`, y ya sea ejecutando el código suministrado si es así o avanzando si no lo es. Para esto usaremos la palabra clave `if`:
-
+ 
 ```javascript
 function puedeManejar(edad) {
     if (edad > 18) {
